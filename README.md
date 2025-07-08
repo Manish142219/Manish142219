@@ -1,7 +1,7 @@
 ![MasterHead](https://cdn.videoplasty.com/animation/chill-coding-programming-lo-fi-animation-stock-animation-21874-1280x720.jpg)
 
 
-<h1 align="center">Hi 👋, I'm Manish</h1>
+<h1 align="center">Hello there 👋, I'm Manish </h1>
 <h3 align="center">A passionate softwareengineer from India</h3>
 
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/37551474/113611467-3a567d80-9657-11eb-862b-b07b4f105c6f.gif" >
